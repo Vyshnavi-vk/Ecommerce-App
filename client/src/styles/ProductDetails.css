@@ -1,0 +1,25 @@
+.product-details {
+    margin-top: 100px !important;
+}
+
+.similar-products .card {
+    background-color: rgba(128, 128, 128, 0.097);
+    width: 18rem;
+}
+
+.similar-products button {
+    border-radius: 0;
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.similar-products .card img:hover {
+    transform: scale(0.9);
+}
+
+.similar-products .card-img-top {
+    height: 300px !important;
+}
